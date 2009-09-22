@@ -1,3 +1,28 @@
-= ads
+= Redmine Ads
 
-Description goes here
+Shows randomized ads in the Redmine sidebar.
+
+== Features
+
+* Randomized ad display
+* Multiple ad support
+
+== Getting the plugin
+
+A copy of the plugin can be downloaded from {Little Stream Software}[https://projects.littlestreamsoftware.com/projects/redmine-misc/files] or from {GitHub}[http://github.com/edavis10/redmine_ads]
+
+
+== Installation and Setup
+
+1. Follow the Redmine plugin installation steps at: http://www.redmine.org/wiki/redmine/Plugins 
+2. Restart your Redmine web servers (e.g. mongrel, thin, mod_rails)
+3. Configure your adds in Administrations > Plugins > Configure.
+
+== License
+
+This plugin is licensed under the GNU GPL v2.  See COPYRIGHT.txt and GPL.txt for details.
+
+== Project help
+
+If you need help you can contact the maintainer at the Bug Tracker.  The bug tracker is located at  https://projects.littlestreamsoftware.com
+
