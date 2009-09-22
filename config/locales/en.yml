@@ -1,3 +1,5 @@
-# English strings go here for Rails i18n
 en:
-  my_label: "My label"
+  ads_text_settings: "Ad settings"
+  ads_settings_help: "Enter each ad content in here.  Multiple ads can be entered by separating them each with a line containing --- in it."
+  ads_label_ad_list: "Ad list"
+

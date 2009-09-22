@@ -1,0 +1,11 @@
+<fieldset>
+  <%= content_tag(:legend, l(:ads_text_settings)) %>
+  <%= content_tag(:p, l(:ads_settings_help)) %>
+
+  <p>
+    <%= content_tag(:label, l(:ads_label_ad_list)) %>
+
+    <%= text_area_tag("settings[ads]", @settings['ads'], :cols => 100, :rows => 20) %>
+  </p>
+</fieldset>
+
